@@ -1,24 +1,15 @@
 ## Features:
-
-YouTube Shorts Integration: Stream YouTube Shorts directly within the app.
-Responsive Design: Works smoothly on desktop and mobile devices.
-Search Functionality: Search for specific YouTube Shorts.
-User-Friendly Interface: Easy to navigate and use.
-Customizable Settings: Adjust playback quality and other settings.
+ 
+This project is starter to develop our own short streaming platform project where we are utilizing learned tech like html , css , javascript , node js and mongodb database
 
 ## Technologies Used:
 
-HTML: Structure the web app.
-CSS: Style the web app for a visually appealing look.
-JavaScript: Add interactivity and functionality to the web app.
+- HTML
+- CSS
+- JavaScript
 
-## Usage:
+## Project Preview
+![project preview](<project preview/project preview.png>)
 
-Visit the live demo link to start streaming YouTube Shorts.
-Use the search functionality to find specific shorts.
-Customize settings for an optimal viewing experience.
-
-## Installation:
-
-Clone the repository to your local machine.
-Open the index.html file in your web browser to start using the app.
+## Live Link
+[live project preview](https://code-me-nik.github.io/ShortStream/)
